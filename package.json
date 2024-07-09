@@ -1,6 +1,6 @@
 {
   "name": "@shawnwu-vben/vite-plugin-theme",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Vite plugin for dynamically changing the theme color of the interface",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
