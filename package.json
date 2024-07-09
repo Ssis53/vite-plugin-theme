@@ -38,12 +38,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vbenjs/vite-plugin-theme"
+    "url": "https://github.com/Ssis53/vue-vben-admin"
   },
   "bugs": {
-    "url": "https://github.com/vbenjs/vite-plugin-theme/issues"
+    "url": "https://github.com/Ssis53/vite-plugin-theme/issues"
   },
-  "homepage": "https://github.com/vbenjs/vite-plugin-theme/tree/master/#readme",
+  "homepage": "https://github.com/Ssis53/vue-vben-admin/blob/main/README.zh-CN.md",
   "peerDependencies": {
     "vite": ">=3.2.0"
   },
