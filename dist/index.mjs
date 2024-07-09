@@ -23074,7 +23074,7 @@ import { createHash } from "crypto";
 // src/constants.ts
 import { normalizePath } from "vite";
 var VITE_CLIENT_ENTRY = "/@vite/client";
-var VITE_PLUGIN_THEME_CLIENT_ENTRY = normalizePath("node_modules/vite-plugin-theme/es/");
+var VITE_PLUGIN_THEME_CLIENT_ENTRY = normalizePath("node_modules/@shawnwu-vben/vite-plugin-theme/es/");
 var CLIENT_PUBLIC_ABSOLUTE_PATH = normalizePath(`/${VITE_PLUGIN_THEME_CLIENT_ENTRY}/client.js`);
 var CLIENT_PUBLIC_PATH = normalizePath(`${VITE_PLUGIN_THEME_CLIENT_ENTRY}/client.js`);
 var commentRE = /\\\\?n|\n|\\\\?r|\/\*[\s\S]+?\*\//g;

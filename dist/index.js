@@ -23081,7 +23081,7 @@ var import_crypto = require("crypto");
 // src/constants.ts
 var import_vite = require("vite");
 var VITE_CLIENT_ENTRY = "/@vite/client";
-var VITE_PLUGIN_THEME_CLIENT_ENTRY = (0, import_vite.normalizePath)("node_modules/vite-plugin-theme/es/");
+var VITE_PLUGIN_THEME_CLIENT_ENTRY = (0, import_vite.normalizePath)("node_modules/@shawnwu-vben/vite-plugin-theme/es/");
 var CLIENT_PUBLIC_ABSOLUTE_PATH = (0, import_vite.normalizePath)(`/${VITE_PLUGIN_THEME_CLIENT_ENTRY}/client.js`);
 var CLIENT_PUBLIC_PATH = (0, import_vite.normalizePath)(`${VITE_PLUGIN_THEME_CLIENT_ENTRY}/client.js`);
 var commentRE = /\\\\?n|\n|\\\\?r|\/\*[\s\S]+?\*\//g;
